@@ -1,0 +1,5 @@
+numpy
+sounddevice
+pynput
+# для игр на Windows (флаг --directinput):
+# pydirectinput
